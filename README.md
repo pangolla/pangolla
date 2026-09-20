@@ -111,8 +111,4 @@ My goal for each project is to explain:
 
 <div align="center">
 
-### Let's connect and talk data.
 
-[Explore my work on GitHub](https://github.com/pangolla?tab=repositories)
-
-</div>
