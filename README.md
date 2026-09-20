@@ -30,6 +30,19 @@ and explaining what they mean.
 - 🎯 Interested in Data Analyst, Marketing Analyst, and BI opportunities.
 
 ---
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:angollapraveen4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email Praveen" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/angolla-praveengoud">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="Praveen on LinkedIn" />
+  </a>
+</p>
+
+---
 
 ## 🧰 My Analytics Toolkit
 
