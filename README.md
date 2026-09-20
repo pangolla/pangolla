@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pangolla/pangolla/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pangolla/pangolla/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man animation of my GitHub contributions"
+    src="https://raw.githubusercontent.com/pangolla/pangolla/output/pacman-contribution-graph.svg"
+    width="100%">
+</picture>
+
+<br>
+
 <div align="center">
 
 # Hi, I'm Angolla Praveen 👋
